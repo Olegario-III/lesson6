@@ -24,7 +24,13 @@ Perfect for learning `useState` and `useEffect` with intervals.
 2. Replace the content of `App.js` (or `App.jsx`) with the provided code
 3. Start the development server:
 
-```bash
+bash
 npm start
 # or
 npm run dev
+
+## 🛠️ Tech Stack
+
+React (Functional Components + Hooks)
+useState for timer state
+useEffect for handling the interval
